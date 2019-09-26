@@ -1,4 +1,5 @@
 module.exports = {
+  
   siteMetadata: {
     title: 'Gatsby + Netlify CMS Starter',
     description:
